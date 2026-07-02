@@ -1,0 +1,8 @@
+team_name: "[TEAM_NAME_HERE]"
+team_id: "[TEAM_ID_HERE]"
+github_url: "[GITHUB_REPO_URL]"
+ai_tools_declaration:
+  - tool: "Claude / ChatGPT"
+    usage: "Code structuring and architectural validation."
+methodology_summary: >
+  We utilized a dual-stage approach: Semantic Retrieval via FAISS to narrow down 100,000 candidates to the top 500, followed by a deterministic Heuristic Multi-Signal Scorer. Our honeypot detector accurately weeds out temporal paradoxes and skill spoofing, resulting in a robust, deterministic ranking pipeline executing in under 5 minutes on CPU.
