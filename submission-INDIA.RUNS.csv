@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_2867825,1,0.8781,"Applied AI Engineer with 6 yrs; strong in Python, NLP, Sentence Transformers; 63% response rate; Hyderabad-based."
+CAND_2458591,2,0.87316,"Senior ML Engineer with 5 yrs; strong in Python, Vector DBs, LangChain; 68% response rate; Noida-based."
+CAND_4335942,3,0.86646,"Vector Search Engineer with 8 yrs; strong in Python, NLP; active 2024; Mumbai-based."
+CAND_1109031,4,0.85944,Machine Learning Engineer with 8 yrs; expert in Python and Recommendations; 72% response rate; Noida-based.
+CAND_6647119,5,0.84961,"Senior Data Scientist with 5 yrs; strong in Python, Recommendations; active 2024; Mumbai-based."
+CAND_1728977,6,0.84492,"Vector Search Engineer with 5 yrs; strong in Python, Deep Learning; active 2024; Mumbai-based."
+CAND_7067228,7,0.83711,AI Research Engineer with 5 yrs; expert in Python and NLP; 73% response rate; Pune-based.
+CAND_2694522,8,0.82912,LLM Engineer with 7 yrs; expert in Python and Transformers; 78% response rate; Delhi-based.
+CAND_5479144,9,0.82321,AI Research Engineer with 9 yrs; expert in Python and Transformers; 89% response rate; Hyderabad-based.
+CAND_3741438,10,0.81505,Applied AI Engineer with 9 yrs; expert in Python and NLP; 75% response rate; Pune-based.
+CAND_1538552,11,0.80922,"Senior Data Scientist with 7 yrs; strong in Python, Vector DBs; active 2024; Mumbai-based."
+CAND_4567281,12,0.80142,Senior Data Scientist with 8 yrs; expert in Python and Transformers; 71% response rate; Noida-based.
+CAND_5408072,13,0.79459,Senior Data Scientist with 9 yrs; expert in Python and Deep Learning; 78% response rate; Noida-based.
+CAND_9548432,14,0.78637,Senior ML Engineer with 5 yrs; Python + Transformers expertise; 95% response; Noida.
+CAND_2065818,15,0.77874,"Founding AI Engineer with 8 yrs; strong in Python, Embeddings, Retrieval; 71% response rate; Mumbai-based."
+CAND_2921859,16,0.77273,Vector Search Engineer with 7 yrs; Python + Recommendations expertise; 62% response; Delhi.
+CAND_3653446,17,0.76461,"Applied AI Engineer with 9 yrs; strong in Python, Transformers; active 2024; Pune-based."
+CAND_9517169,18,0.75804,"Machine Learning Engineer with 7 yrs; strong in Python, Transformers, Ranking; 89% response rate; Mumbai-based."
+CAND_6438436,19,0.75035,AI Research Engineer with 7 yrs; expert in Python and MLOps; 70% response rate; Pune-based.
+CAND_2321324,20,0.74154,LLM Engineer with 5 yrs; Python + Embeddings expertise; 63% response; Noida.
+CAND_3770370,21,0.73506,Founding AI Engineer with 8 yrs; expert in Python and NLP; 89% response rate; Hyderabad-based.
+CAND_6229731,22,0.7284,Deep Learning Engineer with 8 yrs; expert in Python and Embeddings; 83% response rate; Pune-based.
+CAND_4769795,23,0.71986,Senior ML Engineer with 9 yrs; expert in Python and Embeddings; 69% response rate; Mumbai-based.
+CAND_1120642,24,0.71268,"Senior ML Engineer with 6 yrs; strong in Python, Vector DBs, LangChain; 57% response rate; Delhi-based."
+CAND_9626108,25,0.70615,LLM Engineer with 6 yrs; Python + Embeddings expertise; 63% response; Hyderabad.
+CAND_5076817,26,0.70114,Senior Data Scientist with 6 yrs; Python + Vector DBs expertise; 61% response; Hyderabad.
+CAND_6944126,27,0.69249,"LLM Engineer with 5 yrs; strong in Python, Vector DBs; active 2024; Bangalore-based."
+CAND_2833230,28,0.68459,NLP Engineer with 9 yrs; expert in Python and LLMs; 63% response rate; Bangalore-based.
+CAND_5673212,29,0.67825,"AI Research Engineer with 8 yrs; strong in Python, Embeddings, Retrieval; 61% response rate; Pune-based."
+CAND_2564689,30,0.67291,NLP Engineer with 6 yrs; expert in Python and Deep Learning; 86% response rate; Bangalore-based.
+CAND_7728339,31,0.66561,"Machine Learning Engineer with 8 yrs; strong in Python, FAISS; concern: low response (79%)."
+CAND_5785687,32,0.65649,Vector Search Engineer with 8 yrs; strong in Python; concern: long notice period.
+CAND_1981186,33,0.64992,"Vector Search Engineer with 5 yrs; strong in Python, Recommendations; concern: low response (58%)."
+CAND_9436429,34,0.64408,Vector Search Engineer with 6 yrs; strong in Python; concern: long notice period.
+CAND_2149597,35,0.63558,NLP Engineer with 8 yrs; strong in Python; concern: long notice period.
+CAND_2375453,36,0.62768,Founding AI Engineer with 9 yrs; strong in Python; concern: long notice period.
+CAND_6271130,37,0.61975,Senior Data Scientist with 6 yrs; strong in Python; concern: long notice period.
+CAND_1156287,38,0.61343,"Founding AI Engineer with 5 yrs; strong in Python, Vector DBs; concern: low response (89%)."
+CAND_3222252,39,0.60813,"AI Research Engineer with 6 yrs; strong in Python, Recommendations; concern: low response (73%)."
+CAND_6075395,40,0.59965,Vector Search Engineer with 5 yrs; strong in Python; concern: long notice period.
+CAND_3253031,41,0.59106,AI Research Engineer with 9 yrs; strong in Python; concern: long notice period.
+CAND_6752576,42,0.58361,Applied AI Engineer with 9 yrs; strong in Python; concern: long notice period.
+CAND_8106422,43,0.57892,"Senior ML Engineer with 5 yrs; strong in Python, Recommendations; concern: low response (63%)."
+CAND_3710895,44,0.57136,Vector Search Engineer with 8 yrs; strong in Python; concern: long notice period.
+CAND_3500715,45,0.56338,Deep Learning Engineer with 9 yrs; strong in Python; concern: long notice period.
+CAND_1701771,46,0.55523,Senior ML Engineer with 7 yrs; strong in Python; concern: long notice period.
+CAND_6933742,47,0.54992,Senior Data Scientist with 9 yrs; strong in Python; concern: long notice period.
+CAND_7917152,48,0.5397,Deep Learning Engineer with 8 yrs; strong in Python; concern: long notice period.
+CAND_7417985,49,0.53589,"LLM Engineer with 6 yrs; strong in Python, NLP; concern: low response (84%)."
+CAND_4818418,50,0.52609,"NLP Engineer with 8 yrs; strong in Python, Recommendations; concern: low response (72%)."
+CAND_6891254,51,0.52057,"Senior Data Scientist with 9 yrs; strong in Python, Recommendations; concern: low response (56%)."
+CAND_3995870,52,0.51312,"Applied AI Engineer with 5 yrs; strong in Python, Vector DBs; concern: low response (93%)."
+CAND_6262632,53,0.50535,"Vector Search Engineer with 5 yrs; strong in Python, Deep Learning; concern: low response (91%)."
+CAND_1744682,54,0.49924,"Senior ML Engineer with 9 yrs; strong in Python, Embeddings; concern: low response (67%)."
+CAND_2173965,55,0.493,"Deep Learning Engineer with 9 yrs; strong in Python, Recommendations; concern: low response (62%)."
+CAND_9508103,56,0.48324,Senior Data Scientist with 7 yrs; strong in Python; concern: long notice period.
+CAND_4218542,57,0.47648,"Senior Data Scientist with 6 yrs; strong in Python, Information Retrieval; concern: low response (91%)."
+CAND_1006810,58,0.46882,"NLP Engineer with 8 yrs; strong in Python, Information Retrieval; concern: low response (93%)."
+CAND_8801207,59,0.46217,NLP Engineer with 9 yrs; strong in Python; concern: long notice period.
+CAND_5761145,60,0.45526,"Founding AI Engineer with 7 yrs; strong in Python, Vector DBs; concern: low response (70%)."
+CAND_4768844,61,0.44923,Machine Learning Engineer with 5 yrs; concern: long notice (90d).
+CAND_8640615,62,0.44046,Founding AI Engineer with 6 yrs; concern: missing core python.
+CAND_3475836,63,0.43422,Senior ML Engineer with 5 yrs; concern: logistical mismatch.
+CAND_1842524,64,0.42663,AI Research Engineer with 8 yrs; concern: low response (84%).
+CAND_8425149,65,0.41965,Vector Search Engineer with 8 yrs; concern: logistical mismatch.
+CAND_8550917,66,0.41104,NLP Engineer with 7 yrs; concern: missing core python.
+CAND_5606980,67,0.40456,Applied AI Engineer with 6 yrs; concern: long notice (90d).
+CAND_3321531,68,0.3962,Senior Data Scientist with 6 yrs; concern: logistical mismatch.
+CAND_6551268,69,0.39057,Senior Data Scientist with 5 yrs; concern: long notice (90d).
+CAND_7381734,70,0.38311,Deep Learning Engineer with 7 yrs; concern: missing core python.
+CAND_9191131,71,0.37488,Senior Data Scientist with 8 yrs; concern: logistical mismatch.
+CAND_3768991,72,0.37016,Machine Learning Engineer with 9 yrs; concern: long notice (90d).
+CAND_2408404,73,0.36217,Machine Learning Engineer with 8 yrs; concern: logistical mismatch.
+CAND_6492066,74,0.35325,Deep Learning Engineer with 7 yrs; concern: low response (72%).
+CAND_2374158,75,0.34708,Vector Search Engineer with 5 yrs; concern: long notice (90d).
+CAND_1675419,76,0.34102,NLP Engineer with 6 yrs; concern: missing core python.
+CAND_3117636,77,0.33269,AI Research Engineer with 9 yrs; concern: low response (84%).
+CAND_7189034,78,0.32427,Founding AI Engineer with 5 yrs; concern: long notice (90d).
+CAND_6233774,79,0.3187,Senior Data Scientist with 8 yrs; concern: missing core python.
+CAND_2709620,80,0.31199,Applied AI Engineer with 9 yrs; concern: low response (91%).
+CAND_9937982,81,0.30371,Deep Learning Engineer with 5 yrs; concern: logistical mismatch.
+CAND_9224219,82,0.29522,Deep Learning Engineer with 8 yrs; concern: low response (82%).
+CAND_9111742,83,0.28946,Founding AI Engineer with 7 yrs; concern: low response (70%).
+CAND_8563202,84,0.28138,LLM Engineer with 9 yrs; concern: long notice (90d).
+CAND_9293086,85,0.2766,Machine Learning Engineer with 8 yrs; concern: low response (77%).
+CAND_5691890,86,0.26952,Applied AI Engineer with 9 yrs; concern: long notice (90d).
+CAND_5049282,87,0.26168,LLM Engineer with 9 yrs; concern: logistical mismatch.
+CAND_8519121,88,0.25477,AI Research Engineer with 7 yrs; concern: missing core python.
+CAND_6137284,89,0.24706,Deep Learning Engineer with 8 yrs; concern: logistical mismatch.
+CAND_6549757,90,0.23861,LLM Engineer with 7 yrs; concern: long notice (90d).
+CAND_4231028,91,0.23126,Vector Search Engineer with 6 yrs; concern: logistical mismatch.
+CAND_5638893,92,0.2257,Vector Search Engineer with 9 yrs; concern: low response (61%).
+CAND_4816534,93,0.21704,Applied AI Engineer with 5 yrs; concern: long notice (90d).
+CAND_1914794,94,0.21061,Machine Learning Engineer with 8 yrs; concern: low response (55%).
+CAND_8875173,95,0.20311,Deep Learning Engineer with 6 yrs; concern: long notice (90d).
+CAND_2096280,96,0.1956,AI Research Engineer with 9 yrs; concern: low response (64%).
+CAND_2429098,97,0.19078,AI Research Engineer with 9 yrs; concern: missing core python.
+CAND_9767312,98,0.18112,LLM Engineer with 7 yrs; concern: long notice (90d).
+CAND_2664863,99,0.17619,NLP Engineer with 6 yrs; concern: missing core python.
+CAND_3916107,100,0.16741,Machine Learning Engineer with 5 yrs; concern: logistical mismatch.
